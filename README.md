@@ -9,7 +9,7 @@ Collection of my research projects and publications.
 **Description**: Self-supervised framework achieving SOTA in visual decoding from calcium imaging
 - 📈 13% performance improvement (SSIM 0.593)
 - 🎯 Stable model scaling for foundation-level architectures
-- 🔗 Paper: Available upon acceptance | Code: Available upon acceptance
+- 🔗 [Paper](http://arxiv.org/abs/2510.18516) | Code: Available upon acceptance
 
 **Key Contributions**:
 - Biologically-grounded SSL framework using statistical regularity (skewness/kurtosis) to separate predictable vs. unpredictable neurons
@@ -31,7 +31,7 @@ Collection of my research projects and publications.
 **Description**: State-space framework for causal inference from fMRI
 - 📈 38% accuracy improvement over baselines
 - ✅ Validated on 1,000+ subjects
-- 🔗 Paper: Available upon acceptance | Code: Available upon acceptance
+- 🔗 [Paper](https://arxiv.org/abs/2510.17318) | Code: Available upon acceptance
 
 **Key Contributions**:
 - Two-stage framework: BOLD deconvolution → causal graph inference (37% better than DCM)
